@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Built-By: richnardone
+Build-Jdk: 17.0.4.1
+Class-Path: rekognition-2.16.1.jar aws-json-protocol-2.16.1.jar jackson-
+ core-2.12.1.jar protocol-core-2.16.1.jar sdk-core-2.16.1.jar slf4j-api-
+ 1.7.28.jar jackson-databind-2.12.1.jar reactive-streams-1.0.2.jar auth-
+ 2.16.1.jar eventstream-1.0.1.jar http-client-spi-2.16.1.jar regions-2.1
+ 6.1.jar jackson-annotations-2.12.1.jar annotations-2.16.1.jar utils-2.1
+ 6.1.jar aws-core-2.16.1.jar metrics-spi-2.16.1.jar apache-client-2.16.1
+ .jar httpclient-4.5.13.jar commons-logging-1.2.jar commons-codec-1.11.j
+ ar httpcore-4.4.11.jar netty-nio-client-2.16.1.jar netty-codec-http-4.1
+ .59.Final.jar netty-codec-http2-4.1.59.Final.jar netty-codec-4.1.59.Fin
+ al.jar netty-transport-4.1.59.Final.jar netty-resolver-4.1.59.Final.jar
+  netty-common-4.1.59.Final.jar netty-buffer-4.1.59.Final.jar netty-hand
+ ler-4.1.59.Final.jar netty-transport-native-epoll-4.1.59.Final-linux-x8
+ 6_64.jar netty-transport-native-unix-common-4.1.59.Final.jar netty-reac
+ tive-streams-http-2.0.4.jar netty-reactive-streams-2.0.4.jar sqs-2.16.1
+ .jar aws-query-protocol-2.16.1.jar s3-2.16.1.jar aws-xml-protocol-2.16.
+ 1.jar arns-2.16.1.jar profiles-2.16.1.jar
+Main-Class: EC2_A
+Created-By: Maven Integration for Eclipse
+
